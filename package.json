@@ -1,5 +1,5 @@
 {
-   "name": "Assignment 3: Mars Rover",
+   "name": "assignment 3: mars rover",
    "version": "2.0.0",
    "description": "Mars Rover assignment that uses TDD to guide the creation of new classes and methods",
    "main": "index.js",
@@ -9,6 +9,6 @@
    "author": "",
    "license": "ISC",
    "devDependencies": {
-      "jest": "^29.5.0"
+      "jest": "^29.7.0"
    }
 }
